@@ -1,0 +1,20 @@
+<resources>
+    <string id="AppName">BreezUp</string>
+
+    <string id="Loading">Chargement…</string>
+    <string id="NoPhone">Téléphone déconnecté</string>
+    <string id="NoData">Pas encore de données</string>
+    <string id="Error">Mise à jour impossible</string>
+    <string id="Direction">Direction</string>
+    <string id="Now">maint.</string>
+    <string id="Max1h">max 1 h</string>
+    <string id="Avg">moy.</string>
+    <string id="GustShort">raf.</string>
+
+    <string id="UnitsTitle">Unités</string>
+    <string id="UnitKn">Nœuds</string>
+    <string id="UnitKmh">km/h</string>
+    <string id="UnitMs">m/s</string>
+    <string id="ThresholdTitle">Ligne de seuil (nœuds)</string>
+    <string id="StationsTitle">Stations (fournisseur:id|nom;…)</string>
+</resources>

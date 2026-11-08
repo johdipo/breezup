@@ -1,0 +1,20 @@
+<resources>
+    <string id="AppName">BreezUp</string>
+
+    <string id="Loading">Loading…</string>
+    <string id="NoPhone">Phone not connected</string>
+    <string id="NoData">No data yet</string>
+    <string id="Error">Update failed</string>
+    <string id="Direction">Direction</string>
+    <string id="Now">now</string>
+    <string id="Max1h">max 1 h</string>
+    <string id="Avg">avg</string>
+    <string id="GustShort">gust</string>
+
+    <string id="UnitsTitle">Units</string>
+    <string id="UnitKn">Knots</string>
+    <string id="UnitKmh">km/h</string>
+    <string id="UnitMs">m/s</string>
+    <string id="ThresholdTitle">Threshold line (knots)</string>
+    <string id="StationsTitle">Stations (provider:id|label;…)</string>
+</resources>

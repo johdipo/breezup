@@ -1,0 +1,14 @@
+# Connect IQ build output
+garmin/bin/
+*.prg
+*.iq
+*.prg.debug.xml
+
+# Never commit signing keys
+*.der
+*.pem
+
+# Editors / OS
+.vscode/settings.json
+Thumbs.db
+.DS_Store

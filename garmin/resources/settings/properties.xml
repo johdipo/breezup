@@ -1,0 +1,12 @@
+<resources>
+    <properties>
+        <!-- Stations: "provider:id|LABEL|gustMinutes" separated by ";". Provider "wm" = winds.mobi.
+             gustMinutes = period covered by the gust value (default 10).
+             Yvbeach only publishes the max gust of the last hour, hence 60. -->
+        <property id="stations" type="string">wm:yvbeach-yvbeach|YVBEACH|60</property>
+        <!-- 0 = knots, 1 = km/h, 2 = m/s -->
+        <property id="units" type="number">0</property>
+        <!-- Threshold line in knots (kite 11 m2 = 13 kn) -->
+        <property id="thresholdKn" type="number">13</property>
+    </properties>
+</resources>

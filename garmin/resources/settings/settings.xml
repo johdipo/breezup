@@ -1,0 +1,17 @@
+<resources>
+    <settings>
+        <setting propertyKey="@Properties.units" title="@Strings.UnitsTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.UnitKn</listEntry>
+                <listEntry value="1">@Strings.UnitKmh</listEntry>
+                <listEntry value="2">@Strings.UnitMs</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.thresholdKn" title="@Strings.ThresholdTitle">
+            <settingConfig type="numeric" min="0" max="60"/>
+        </setting>
+        <setting propertyKey="@Properties.stations" title="@Strings.StationsTitle">
+            <settingConfig type="alphaNumeric"/>
+        </setting>
+    </settings>
+</resources>
